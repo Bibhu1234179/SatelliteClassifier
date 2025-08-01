@@ -1,0 +1,11 @@
+streamlit
+rasterio
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+shapely
+geopandas
+Pillow
+joblib
