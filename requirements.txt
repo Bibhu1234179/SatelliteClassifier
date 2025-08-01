@@ -9,3 +9,5 @@ shapely
 geopandas
 Pillow
 joblib
+plotly
+
