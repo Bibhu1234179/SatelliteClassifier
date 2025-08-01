@@ -10,4 +10,5 @@ geopandas
 Pillow
 joblib
 plotly
+folium
 
